@@ -65,6 +65,7 @@ export const getSession = async (
     );
     return response.data;
   } catch (error) {
+    logger.error('error', error);
     return null;
   }
 };
@@ -84,6 +85,7 @@ export const currentMember = async (
     );
     return response.data.member;
   } catch (error) {
+    logger.error('error', error);
     return null;
   }
 };
