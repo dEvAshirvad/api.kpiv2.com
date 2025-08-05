@@ -1,0 +1,1559 @@
+[{
+  "_id": {
+    "$oid": "689005fb7351510e4552ff8a"
+  },
+  "name": "SDM KPIs 2025",
+  "description": "KPI template for Sub-Divisional Magistrates in Raipur Revenue Department",
+  "departmentSlug": "revenue-department",
+  "role": "sdm",
+  "frequency": "monthly",
+  "template": [
+    {
+      "name": "व्यपवर्तन",
+      "description": "% of cases disposed per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "kpiUnit": "%",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "अभिलेख दुरुस्ती/त्रुटियुधार",
+      "description": "% of record corrections completed per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "kpiUnit": "%",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "अपील निराकरण",
+      "description": "% of appeals resolved per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "kpiUnit": "%",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "कुल प्रकरणों का निराकरण",
+      "description": "% of total cases resolved per month",
+      "maxMarks": 30,
+      "kpiType": "percentage",
+      "kpiUnit": "%",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 30,
+          "value": 100
+        },
+        {
+          "score": 27,
+          "value": 90
+        },
+        {
+          "score": 24,
+          "value": 80
+        },
+        {
+          "score": 21,
+          "value": 70
+        },
+        {
+          "score": 18,
+          "value": 60
+        },
+        {
+          "score": 15,
+          "value": 50
+        },
+        {
+          "score": 12,
+          "value": 40
+        },
+        {
+          "score": 9,
+          "value": 30
+        },
+        {
+          "score": 6,
+          "value": 20
+        },
+        {
+          "score": 3,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "description": "% of caste certificates issued per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "kpiUnit": "%",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "आँगनबाड़ी/स्कूल/पीडीएस शॉप/विकास कार्य निरीक्षण",
+      "description": "% of Anganwadi/School/PDS Shop/Development Work inspections conducted per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "kpiUnit": "%",
+      "isDynamic": true,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "RBC 6(4)",
+      "description": "% of revenue case disposals under RBC 6(4) per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "kpiUnit": "%",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "टीएल/जनदर्शन/जनशिकायत/पीजी",
+      "description": "% of grievances resolved via TL, Jan Darshan, or public grievance platforms per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "kpiUnit": "%",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdAt": {
+    "$date": "2025-08-04T00:59:39.354Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T00:59:39.354Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "689055ceb5bfde5238f62b91"
+  },
+  "name": "Tehsildar KPIs 2025",
+  "description": "KPI template for Tehsildar officers in Raipur District Administration",
+  "departmentSlug": "revenue-department",
+  "role": "tehsildar",
+  "frequency": "monthly",
+  "template": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "description": "% of land partition cases resolved per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "description": "% of land mutation cases resolved per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "सीमांकन",
+      "description": "% of land demarcation cases resolved per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "description": "% of land record updates completed per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "कुल निराकरण",
+      "description": "% of total cases resolved per month",
+      "maxMarks": 30,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "description": "% of caste certificate applications processed per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "अवैध उत्खनन/अतिक्रमण",
+      "description": "% of illegal excavation or encroachment cases addressed per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "आर बी सी 6 (4)",
+      "description": "% of revenue case disposals under RBC 6(4) per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    },
+    {
+      "name": "टी.एल./जनदर्शन / जनशिकायत /लोक सेवा",
+      "description": "% of grievances resolved via TL, Jan Darshan, or public grievance platforms per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "score": 10,
+          "value": 100
+        },
+        {
+          "score": 9,
+          "value": 90
+        },
+        {
+          "score": 8,
+          "value": 80
+        },
+        {
+          "score": 7,
+          "value": 70
+        },
+        {
+          "score": 6,
+          "value": 60
+        },
+        {
+          "score": 5,
+          "value": 50
+        },
+        {
+          "score": 4,
+          "value": 40
+        },
+        {
+          "score": 3,
+          "value": 30
+        },
+        {
+          "score": 2,
+          "value": 20
+        },
+        {
+          "score": 1,
+          "value": 10
+        },
+        {
+          "score": 0,
+          "value": 0
+        }
+      ]
+    }
+  ],
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdAt": {
+    "$date": "2025-08-04T06:40:14.316Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T06:40:14.316Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6890566bb5bfde5238f62b93"
+  },
+  "name": "Nayab Tehsildar KPIs 2025",
+  "description": "KPI template for Tehsildar officers in Raipur District Administration",
+  "departmentSlug": "revenue-department",
+  "role": "nayabTehsildar",
+  "frequency": "monthly",
+  "template": [
+    {
+      "name": "बंटवारा",
+      "description": "% of land partition cases resolved per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 1,
+          "max": 10,
+          "score": 0.6
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 1.2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 1.8
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 2.4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 3
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 3.6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 4.2
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 4.8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 5.4
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "नामांतरण",
+      "description": "% of land mutation cases resolved per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 0.6
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 1.2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 1.8
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 2.4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 3
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 3.6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 4.2
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 4.8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 5.4
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "सीमांकन",
+      "description": "% of land demarcation cases resolved per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 0.6
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 1.2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 1.8
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 2.4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 3
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 3.6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 4.2
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 4.8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 5.4
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "B1-121",
+      "description": "% of land record updates completed per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 0.6
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 1.2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 1.8
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 2.4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 3
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 3.6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 4.2
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 4.8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 5.4
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "अभिलेख दुरुस्ती/शुद्धि सुधार",
+      "description": "% of land record corrections completed per month",
+      "maxMarks": 6,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 0.6
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 1.2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 1.8
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 2.4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 3
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 3.6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 4.2
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 4.8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 5.4
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 6
+        }
+      ]
+    },
+    {
+      "name": "कुल निराकरण",
+      "description": "% of total cases resolved per month",
+      "maxMarks": 30,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 3
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 6
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 9
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 12
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 15
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 18
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 21
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 24
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 27
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 30
+        }
+      ]
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "description": "% of caste certificate applications processed per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 1
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 3
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 5
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 7
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 9
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "अवैध उत्खनन/अतिक्रमण",
+      "description": "% of illegal excavation or encroachment cases addressed per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 1
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 3
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 5
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 7
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 9
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "RBC 6(4)",
+      "description": "% of revenue case disposals under RBC 6(4) per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 1
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 3
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 5
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 7
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 9
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 10
+        }
+      ]
+    },
+    {
+      "name": "टीएल/जनदर्शन/जनशिकायत/पीजी",
+      "description": "% of grievances resolved via TL, Jan Darshan, or public grievance platforms per month",
+      "maxMarks": 10,
+      "kpiType": "percentage",
+      "isDynamic": false,
+      "scoringRules": [
+        {
+          "min": 0,
+          "max": 10,
+          "score": 1
+        },
+        {
+          "min": 11,
+          "max": 20,
+          "score": 2
+        },
+        {
+          "min": 21,
+          "max": 30,
+          "score": 3
+        },
+        {
+          "min": 31,
+          "max": 40,
+          "score": 4
+        },
+        {
+          "min": 41,
+          "max": 50,
+          "score": 5
+        },
+        {
+          "min": 51,
+          "max": 60,
+          "score": 6
+        },
+        {
+          "min": 61,
+          "max": 70,
+          "score": 7
+        },
+        {
+          "min": 71,
+          "max": 80,
+          "score": 8
+        },
+        {
+          "min": 81,
+          "max": 90,
+          "score": 9
+        },
+        {
+          "min": 91,
+          "max": 100,
+          "score": 10
+        }
+      ]
+    }
+  ],
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdAt": {
+    "$date": "2025-08-04T06:42:51.125Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T06:42:51.125Z"
+  },
+  "__v": 0
+}]

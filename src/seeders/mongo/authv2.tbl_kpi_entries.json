@@ -1,0 +1,1030 @@
+[{
+  "_id": {
+    "$oid": "68904a387a0d8c74dbf615b6"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689005fb7351510e4552ff8a",
+  "kpiRef": {
+    "label": "area",
+    "value": "arng"
+  },
+  "values": [
+    {
+      "name": "व्यपवर्तन",
+      "value": 95.33,
+      "score": 9
+    },
+    {
+      "name": "अभिलेख दुरुस्ती/त्रुटियुधार",
+      "value": 99.58,
+      "score": 9
+    },
+    {
+      "name": "अपील निराकरण",
+      "value": 90.89,
+      "score": 9
+    },
+    {
+      "name": "कुल प्रकरणों का निराकरण",
+      "value": 95.31,
+      "score": 27
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "value": 86.46,
+      "score": 8
+    },
+    {
+      "name": "आँगनबाड़ी/स्कूल/पीडीएस शॉप/विकास कार्य निरीक्षण",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "RBC 6(4)",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "टीएल/जनदर्शन/जनशिकायत/पीजी",
+      "value": 82.35,
+      "score": 8
+    }
+  ],
+  "status": "generated",
+  "totalScore": 90,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "6890438f342fef67c826530f",
+  "createdAt": {
+    "$date": "2025-08-04T05:50:48.836Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T05:50:48.836Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68904a5c7a0d8c74dbf615ba"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689005fb7351510e4552ff8a",
+  "kpiRef": {
+    "label": "area",
+    "value": "raipur"
+  },
+  "values": [
+    {
+      "name": "व्यपवर्तन",
+      "value": 99.93,
+      "score": 9
+    },
+    {
+      "name": "अभिलेख दुरुस्ती/त्रुटियुधार",
+      "value": 99.63,
+      "score": 9
+    },
+    {
+      "name": "अपील निराकरण",
+      "value": 88.52,
+      "score": 8
+    },
+    {
+      "name": "कुल प्रकरणों का निराकरण",
+      "value": 98.85,
+      "score": 27
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "आँगनबाड़ी/स्कूल/पीडीएस शॉप/विकास कार्य निरीक्षण",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "RBC 6(4)",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "टीएल/जनदर्शन/जनशिकायत/पीजी",
+      "value": 100,
+      "score": 10
+    }
+  ],
+  "status": "generated",
+  "totalScore": 93,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68901831d4f2278bf50a476e",
+  "createdAt": {
+    "$date": "2025-08-04T05:51:24.171Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T05:51:24.171Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68904b567a0d8c74dbf615be"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689005fb7351510e4552ff8a",
+  "kpiRef": {
+    "label": "area",
+    "value": "abn"
+  },
+  "values": [
+    {
+      "name": "व्यपवर्तन",
+      "value": 97.24,
+      "score": 9
+    },
+    {
+      "name": "अभिलेख दुरुस्ती/त्रुटियुधार",
+      "value": 98.39,
+      "score": 9
+    },
+    {
+      "name": "अपील निराकरण",
+      "value": 46.85,
+      "score": 4
+    },
+    {
+      "name": "कुल प्रकरणों का निराकरण",
+      "value": 95.24,
+      "score": 27
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "RBC 6(4)",
+      "value": 83.33,
+      "score": 8
+    },
+    {
+      "name": "टीएल/जनदर्शन/जनशिकायत/पीजी",
+      "value": 98.61,
+      "score": 9
+    }
+  ],
+  "status": "generated",
+  "totalScore": 76,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68904afc342fef67c826532e",
+  "createdAt": {
+    "$date": "2025-08-04T05:55:34.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T05:55:34.324Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68904c187a0d8c74dbf615c3"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689005fb7351510e4552ff8a",
+  "kpiRef": {
+    "label": "area",
+    "value": "tilda"
+  },
+  "values": [
+    {
+      "name": "व्यपवर्तन",
+      "value": 95.71,
+      "score": 9
+    },
+    {
+      "name": "अभिलेख दुरुस्ती/त्रुटियुधार",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "अपील निराकरण",
+      "value": 75,
+      "score": 7
+    },
+    {
+      "name": "कुल प्रकरणों का निराकरण",
+      "value": 97.37,
+      "score": 27
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "आँगनबाड़ी/स्कूल/पीडीएस शॉप/विकास कार्य निरीक्षण",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "टीएल/जनदर्शन/जनशिकायत/पीजी",
+      "value": 100,
+      "score": 10
+    }
+  ],
+  "status": "generated",
+  "totalScore": 83,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68904c0c342fef67c8265337",
+  "createdAt": {
+    "$date": "2025-08-04T05:58:48.881Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-04T05:58:48.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87c6"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय तहसीलदार रायपुर"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 64.41,
+      "score": 6
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 87.84,
+      "score": 8
+    },
+    {
+      "name": "सीमांकन",
+      "value": 81.79,
+      "score": 8
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 96.03,
+      "score": 9
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 97.35,
+      "score": 9
+    },
+    {
+      "name": "अवैध उत्खनन/अतिक्रमण",
+      "value": 32,
+      "score": 3
+    },
+    {
+      "name": "आर बी सी 6 (4)",
+      "value": 60,
+      "score": 6
+    },
+    {
+      "name": "टी.एल./जनदर्शन / जनशिकायत /लोक सेवा",
+      "value": 99.44,
+      "score": 9
+    }
+  ],
+  "status": "generated",
+  "totalScore": 58,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68905770342fef67c82653b1",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.077Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.077Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87c9"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय नायाब तहसीलदार 02AA"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 76.92,
+      "score": 7
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 90.31,
+      "score": 9
+    },
+    {
+      "name": "सीमांकन",
+      "value": 81.73,
+      "score": 8
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 95.02,
+      "score": 9
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "अवैध उत्खनन/अतिक्रमण",
+      "value": 0,
+      "score": 0
+    },
+    {
+      "name": "आर बी सी 6 (4)",
+      "value": 0,
+      "score": 0
+    }
+  ],
+  "status": "generated",
+  "totalScore": 43,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "689057a1342fef67c82653b6",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.112Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.112Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87cc"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय नायब तहसीलदार रायपुर 5"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 84,
+      "score": 8
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 90.4,
+      "score": 9
+    },
+    {
+      "name": "सीमांकन",
+      "value": 77.32,
+      "score": 7
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 87.5,
+      "score": 8
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 96.67,
+      "score": 9
+    }
+  ],
+  "status": "generated",
+  "totalScore": 41,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "689057a1342fef67c82653b6",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.123Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.123Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87cf"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय नायब तहसीलदार 8A रायपुर"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 89.47,
+      "score": 8
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 91.7,
+      "score": 9
+    },
+    {
+      "name": "सीमांकन",
+      "value": 97.88,
+      "score": 9
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 97.53,
+      "score": 9
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 98.7,
+      "score": 9
+    }
+  ],
+  "status": "generated",
+  "totalScore": 44,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "689058b5342fef67c82653bd",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.144Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87d2"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्‍याययलय नायब तहसीलदार रायपुर-02-A"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 41.67,
+      "score": 4
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 91.67,
+      "score": 9
+    },
+    {
+      "name": "सीमांकन",
+      "value": 91.37,
+      "score": 9
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 100,
+      "score": 10
+    }
+  ],
+  "status": "generated",
+  "totalScore": 32,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "689058fe342fef67c82653c2",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.155Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.155Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87d5"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय आतिरिक्त तहसीलदार 03 रायपुर"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 53.85,
+      "score": 5
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 89.65,
+      "score": 8
+    },
+    {
+      "name": "सीमांकन",
+      "value": 98.73,
+      "score": 9
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 98.84,
+      "score": 9
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 80,
+      "score": 8
+    },
+    {
+      "name": "अवैध उत्खनन/अतिक्रमण",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "आर बी सी 6 (4)",
+      "value": 80,
+      "score": 8
+    },
+    {
+      "name": "टी.एल./जनदर्शन / जनशिकायत /लोक सेवा",
+      "value": 99.44,
+      "score": 9
+    }
+  ],
+  "status": "generated",
+  "totalScore": 66,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "689058fe342fef67c82653c2",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.166Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.166Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87d8"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय अतिरिक्त तह्सीलदार रायपुर 02"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 65.22,
+      "score": 6
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 84.93,
+      "score": 8
+    },
+    {
+      "name": "सीमांकन",
+      "value": 90,
+      "score": 9
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 98.03,
+      "score": 9
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 90.63,
+      "score": 9
+    }
+  ],
+  "status": "generated",
+  "totalScore": 41,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68905939342fef67c82653c7",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87db"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय आतिरिक्त तहसीलदार 01 रायपुर"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 66.67,
+      "score": 6
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 89.48,
+      "score": 8
+    },
+    {
+      "name": "सीमांकन",
+      "value": 82.35,
+      "score": 8
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 98.39,
+      "score": 9
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 100,
+      "score": 10
+    }
+  ],
+  "status": "generated",
+  "totalScore": 41,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68905939342fef67c82653c7",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.184Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915ee2c76ec0a3fe2e87de"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय आतिरिक्त तहसीलदार 04 रायपुर"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 87.1,
+      "score": 8
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 91.6,
+      "score": 9
+    },
+    {
+      "name": "सीमांकन",
+      "value": 94.32,
+      "score": 9
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 79.19,
+      "score": 7
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 100,
+      "score": 10
+    }
+  ],
+  "status": "generated",
+  "totalScore": 43,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68905939342fef67c82653c7",
+  "createdAt": {
+    "$date": "2025-08-05T01:31:14.201Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:31:14.201Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915f2fc76ec0a3fe2e87e3"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय तहसीलदार आरंग"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 95.81,
+      "score": 9
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 98.72,
+      "score": 9
+    },
+    {
+      "name": "सीमांकन",
+      "value": 94.04,
+      "score": 9
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 81.17,
+      "score": 8
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 97.67,
+      "score": 9
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "value": 48.97,
+      "score": 4
+    },
+    {
+      "name": "अवैध उत्खनन/अतिक्रमण",
+      "value": 42.86,
+      "score": 4
+    },
+    {
+      "name": "आर बी सी 6 (4)",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "टी.एल./जनदर्शन / जनशिकायत /लोक सेवा",
+      "value": 89.51,
+      "score": 8
+    }
+  ],
+  "status": "generated",
+  "totalScore": 70,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68914de72eba5b2c0f85f1f4",
+  "createdAt": {
+    "$date": "2025-08-05T01:32:31.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:32:31.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915f2fc76ec0a3fe2e87e6"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय नायब तहसीलदार समोदा"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 96.85,
+      "score": 9
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 98.13,
+      "score": 9
+    },
+    {
+      "name": "सीमांकन",
+      "value": 98.26,
+      "score": 9
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 93.84,
+      "score": 9
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 97.84,
+      "score": 9
+    },
+    {
+      "name": "अवैध उत्खनन/अतिक्रमण",
+      "value": 68.57,
+      "score": 6
+    },
+    {
+      "name": "टी.एल./जनदर्शन / जनशिकायत /लोक सेवा",
+      "value": 100,
+      "score": 10
+    }
+  ],
+  "status": "generated",
+  "totalScore": 61,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68914e022eba5b2c0f85f1f9",
+  "createdAt": {
+    "$date": "2025-08-05T01:32:31.111Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:32:31.111Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915f49c76ec0a3fe2e87ea"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय तह्सीलदार अभनपुर"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 60,
+      "score": 6
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 79.47,
+      "score": 7
+    },
+    {
+      "name": "सीमांकन",
+      "value": 97.09,
+      "score": 9
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 84.23,
+      "score": 8
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 81.91,
+      "score": 8
+    },
+    {
+      "name": "जाति प्रमाणपत्र",
+      "value": 87.68,
+      "score": 8
+    },
+    {
+      "name": "अवैध उत्खनन/अतिक्रमण",
+      "value": 87.5,
+      "score": 8
+    },
+    {
+      "name": "आर बी सी 6 (4)",
+      "value": 100,
+      "score": 10
+    },
+    {
+      "name": "टी.एल./जनदर्शन / जनशिकायत /लोक सेवा",
+      "value": 99.89,
+      "score": 9
+    }
+  ],
+  "status": "generated",
+  "totalScore": 73,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68914e6b2eba5b2c0f85f1fe",
+  "createdAt": {
+    "$date": "2025-08-05T01:32:57.577Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:32:57.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915f49c76ec0a3fe2e87ed"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय अतिरिक्त तहसीलदार अभनपुर"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 15.38,
+      "score": 1
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 57.14,
+      "score": 5
+    },
+    {
+      "name": "सीमांकन",
+      "value": 38.89,
+      "score": 3
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 42.37,
+      "score": 4
+    }
+  ],
+  "status": "generated",
+  "totalScore": 13,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68914e912eba5b2c0f85f203",
+  "createdAt": {
+    "$date": "2025-08-05T01:32:57.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:32:57.587Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "68915f49c76ec0a3fe2e87f0"
+  },
+  "month": 7,
+  "year": 2025,
+  "templateId": "689055ceb5bfde5238f62b91",
+  "kpiRef": {
+    "label": "court",
+    "value": "न्यायालय अतिरिक्त तहसीलदार अभनपुर उप तहसील खोरपा"
+  },
+  "values": [
+    {
+      "name": "खाता विभाजन (विवादित + अविवादित)",
+      "value": 80,
+      "score": 8
+    },
+    {
+      "name": "नामांतरण (विवादित + अविवादित)",
+      "value": 69.78,
+      "score": 6
+    },
+    {
+      "name": "सीमांकन",
+      "value": 91.89,
+      "score": 9
+    },
+    {
+      "name": "विविध राजस्व मामले (बी-121)",
+      "value": 7.14,
+      "score": 0
+    },
+    {
+      "name": "कुल निराकरण",
+      "value": 72.62,
+      "score": 7
+    }
+  ],
+  "status": "generated",
+  "totalScore": 30,
+  "createdBy": "688ffb5233676bdf4633b847",
+  "createdFor": "68914eab2eba5b2c0f85f208",
+  "createdAt": {
+    "$date": "2025-08-05T01:32:57.596Z"
+  },
+  "updatedAt": {
+    "$date": "2025-08-05T01:32:57.596Z"
+  },
+  "__v": 0
+}]
